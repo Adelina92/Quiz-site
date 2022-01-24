@@ -1,0 +1,16 @@
+.logotype {
+    color: white;
+  }
+  
+.content {
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+  }
+
+  /* .ant-card-cover {
+    height: 100px;
+  } */
